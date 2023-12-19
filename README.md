@@ -1,8 +1,6 @@
 # Automatic Email Replier on Vacation
 
-Description
--This is a repository for Automatic_Email_Reply Application Developed using Node.js and Google APIs.
--This app is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation.
+This is a repository for Automatic_Email_Reply Application Developed using Node.js and Google APIs. This app is able to respond to emails sent to your Gmail mailbox while you’re out on a vacation.
 
 Features
 - Node.js clusters support.
